@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Eliot Goarin  
 
-<!--
-**EliotGoarin/EliotGoarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Master’s Student in Artificial Intelligence @ Université Toulouse III – Paul Sabatier  
+🔬 Interested in Machine Learning, Data Science, Game AI, and Web Development  
+🌍 Multicultural profile – fluent in English, Portuguese, Spanish & French  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🎬 [Cinema Algorithm](https://github.com/EliotGoarin/Cinema_Algorithm): Personalized movie recommendation website  
+- 🎮 [Sinners](https://github.com/EliotGoarin/Sinners): 2D/3D game project exploring AI for NPCs & bosses  
+- 🏀 [Basketball Chatbot](https://github.com/EliotGoarin/basketball-chatbot): Simple chatbot project about basketball, open to future improvements
+- 
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/eliotgoarin/)
+- - ✉️ Email: [eliotgoarin@gmail.com](mailto:eliotgoarin@gmail.com) 
