@@ -1,7 +1,7 @@
 # Hi, I'm Eliot Goarin  
 
 - Master’s Student in Artificial Intelligence @ Université Toulouse III – Paul Sabatier  
-- Interested in Machine Learning, Data Science, Game Design and AI, and Web Development  
+- Interested in AI, ML/DL, Game Design and Web Development  
 - Multicultural profile – fluent in French, English, Portuguese and Spanish
   
 
