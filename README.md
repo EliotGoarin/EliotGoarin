@@ -8,10 +8,10 @@
 
 #  Projects
 ### Current Projects :
+-  [J4RVIS Chatbot](https://github.com/Neural-Crew/JARVIS): Intelligent assistant for environment questions
 -  [Unity Game : MedievalActionRPG](https://github.com/EliotGoarin/Unity_MedievalActionRPG): Unity 2D game 
 -  [Cinema Algorithm](https://github.com/EliotGoarin/Cinema_Algorithm): Personalized movie recommendation website  
 -  [Godot Game : Sinners](https://github.com/EliotGoarin/Sinners): Godot 2D game exploring AI for NPCs & bosses  
--  [Basketball Chatbot](https://github.com/EliotGoarin/basketball-chatbot): Simple chatbot project about basketball, open to future improvements
 
   
 #  Connect with me
