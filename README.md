@@ -2,7 +2,7 @@
 
 - Master’s Student in Artificial Intelligence @ Université Toulouse III – Paul Sabatier  
 - Interested in AI, LLMs, ML/DL, Game Design and Web Development  
-- Multicultural profile – fluent in French, English, Portuguese and Spanish
+- Multicultural profile – fluent in French, English and Portuguese 
   
 
 
