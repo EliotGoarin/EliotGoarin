@@ -8,7 +8,7 @@
 
 #  Projects
 ### Current Projects :
--  [Coucou Papy](https://github.com/EliotGoarin/coucou-papy): Discussion transcription app for deaf people, speech-to-text + LLM technologies 
+-  [Coucou Papy](https://github.com/EliotGoarin/coucou-papy):  https://coucou-papy.vercel.app/  Discussion transcription app for deaf people, speech-to-text + LLM technologies 
 -  [J4RVIS Chatbot](https://github.com/Neural-Crew/JARVIS): Intelligent assistant for environmental subjects
 -  [Cinema Algorithm](https://github.com/EliotGoarin/Cinema_Algorithm): Personalized movie recommendation website  
 -  [Unity Game : MedievalActionRPG](https://github.com/EliotGoarin/Unity_MedievalActionRPG): Unity 2D game 
